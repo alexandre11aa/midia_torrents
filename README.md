@@ -1,1 +1,18 @@
-# midia_torrents
+# Midia Torrents
+
+Site agregador de links torrent de midia em Python, Django, Javascript e Bootstrap.
+
+![Seus Eventos](frontend/images/u.png)
+
+# Requirements
+
+Python 3.12.1
+
+Package         Version
+--------------- -------
+asgiref         3.8.1
+Django          5.0.7
+pip             24.0
+psycopg2-binary 2.9.9
+sqlparse        0.5.1
+tzdata          2024.1
