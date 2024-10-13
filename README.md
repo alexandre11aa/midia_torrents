@@ -7,6 +7,7 @@ Site agregador de links torrent de midia em Python, Django, Javascript e Bootstr
 # Requirements
 
 * Python 3.12.1
+
 ```shell
 Package         Version
 --------------- -------
