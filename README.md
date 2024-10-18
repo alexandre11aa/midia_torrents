@@ -1,6 +1,6 @@
 # Midia Torrents
 
-Site agregador de links torrent de midia em Python, Django, Javascript e Bootstrap.
+Site agregador de links torrent de midia em Python, Django, Javascript e Bootstrap. É possível acessar o [modelo](https://midiatorrents.pythonanywhere.com/) do site hospedado através do PythonAnywhere.
 
 ![Midia Torrents](frontend/images/u_midia_torrents.png)
 
